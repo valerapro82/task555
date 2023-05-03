@@ -3,4 +3,5 @@ def add(x, y):
 print(add(1, 2))
 print(add('i a', 'm tester'))
 print("Новый коммит")
+print("старый коммит")
 
